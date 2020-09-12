@@ -1,0 +1,69 @@
+/* header */
+
+body {
+    color: greenyellow;
+    background-color: royalblue 
+}
+h1 {
+    text-align: center;
+    font-family: fantasy;
+    font-size: 750%;
+}
+
+header img {
+    width: 300px;
+    float: left;
+}
+
+nav {
+    float: left;
+}
+
+header li {
+    display: inline-block;
+    width: 125px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    border-radius: 25px;
+    margin: 10px;
+    text-align: center;
+    border: 1px solid greenyellow;
+}
+
+/*main*/
+main {
+    height: 200px;
+    width: 300px;
+    color: white;
+    background-color: royalblue;
+    text-align: center;
+    font-family: fantasy;
+}
+
+h2 {
+    text-align: center;
+    font-size: 200%;
+    color: greenyellow;
+}
+
+main img {
+    height: 200px;
+    width: 300px;
+    float: right;
+}
+
+main li {
+    display: inline-block;
+    width: 110px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 15px;
+    margin: 10px;
+    text-align: center;
+    border: 1px solid greenyellow;
+}
+
+
+
+
+/*classes have periods .classname
+IDs have numbers #idname */
